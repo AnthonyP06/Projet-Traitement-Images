@@ -16,7 +16,7 @@ Instructions
 2. Arguments: 
     - They must be separated from each other by a space.
     - In this order: absolute path of original picture ; format of the original picture : absolute path where to create the filtered picture ; format of the filtered picture ; filters (as numbers), as many as you want.
-    For instance, C://Users/picture.jpg JPG C://Users/filtered.png PNG 2 6 5 14 will filter the image "picture.jpg" into "filtered.png" using filters 2, 6, 5 and 14 (in this order).
+    For instance, C://Users/picture.jpg JPEG C://Users/filtered.png PNG 2 6 5 14 will filter the image "picture.jpg" into "filtered.png" using filters 2, 6, 5 and 14 (in this order).
 
 Available filters
 -----------------
