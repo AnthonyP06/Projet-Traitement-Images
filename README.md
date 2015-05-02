@@ -3,7 +3,7 @@ Image processing software. Pattern Factory and Interfaces. (Java Programming)
 
 ----------------------------------------------------------------------------------------
 
-Insalling the software
+Installing the software
 ----------------------
 
 1. Download this project as a ZIP.
